@@ -2,7 +2,7 @@ class Author
   attr_accessor :title
 
   def initialize
-    @title = title
+    @name = name
   end
 
 end
